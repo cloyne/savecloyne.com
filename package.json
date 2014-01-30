@@ -15,7 +15,8 @@
   "dependencies": {
     "docpad": "~6.59.6",
     "semantic": "git+https://github.com/Semantic-Org/Semantic-UI#0.12.1",
-    "font-awesome": "git+https://github.com/FortAwesome/Font-Awesome#v4.0.3"
+    "font-awesome": "git+https://github.com/FortAwesome/Font-Awesome#v4.0.3",
+    "longjohn": "~0.2.2"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {
