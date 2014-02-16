@@ -2,6 +2,8 @@
 @fa-font-path:  "../fonts";
 
 @import '../../../node_modules/semantic/src/elements/icon.less';
+@import '../../../node_modules/semantic/src/collections/grid.less';
+@import '../../../node_modules/semantic/src/collections/menu.less';
 
 @import './colors.less';
 
@@ -18,45 +20,79 @@ html, body {
   color: @black;
 }
 
-body > main > header {
+body > nav {
   text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+
+body > main {
+  margin-top: 47px;
+}
+
+body > main.banner {
+  margin-top: 0px;
+  text-align: center;
+  background-image: url("../images/banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  height: 100%;
 
   h1 {
     margin: 0;
+    margin-top: 100px;
+    background: @black;
+    background: rgba(0, 0, 0, 0.7);
+    color: @white;
+    display: inline-block;
 
     @media @tiny {
       display: inline-block;
-      font-size: 2.8rem;
+      font-size: 4.8rem;
     }
     @media @small {
-      font-size: 3.3rem;
+      font-size: 5.3rem;
     }
     @media @medium {
-      font-size: 4.3rem;
+      font-size: 6.3rem;
     }
     @media @large {
-      font-size: 6.3rem;
+      font-size: 8.3rem;
     }
   }
 
   p {
     margin: 0;
-
-    color: rgba(0, 0, 0, 0.75);
+    background: @black;
+    background: rgba(0, 0, 0, 0.7);
+    color: @white;
+    display: inline-block;
 
     @media @tiny {
       display: inline-block;
-      font-size: 2.2rem;
+      font-size: 3.5rem;
     }
     @media @small {
-      font-size: 2.7rem;
+      font-size: 4rem;
     }
     @media @medium {
-      font-size: 2.8rem;
+      font-size: 4.5rem;
     }
     @media @large {
-      font-size: 3rem;
+      font-size: 5.5rem;
     }
+  }
+
+  .down.icon {
+    line-height: normal;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    bottom: 0px;
   }
 
   a {

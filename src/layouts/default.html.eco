@@ -5,11 +5,14 @@
     <link rel="shortcut icon" href="favicon.ico" />
     <meta charset="utf-8" />
     <%- @getBlock("meta").toHTML() %>
-    <%- @getBlock("styles").add(["/styles/index.css"]).toHTML() %>
+    <%- @getBlock("styles").add(["styles/index.css"]).toHTML() %>
   </head>
   <body>
     <%- @partial("fork.html") %>
+    <nav role="navigation">
+    <%- @partial("menu.html.eco", { menuItems: @generateMenu(@document.url) }) %>
+    </nav>
     <%- @content %>
-    <%- @getBlock("scripts").add("/scripts/index.js").toHTML() %>
+    <%- @getBlock("scripts").add("scripts/index.js").toHTML() %>
   </body>
 </html>

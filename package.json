@@ -1,28 +1,30 @@
 {
-  "name": "yourproject.is",
+  "name": "savecloyne.com",
   "version": "0.1.0",
-  "description": "yourproject.is website",
+  "description": "savecloyne.com website",
   "repository": {
     "type": "git",
-    "url": "git://github.com/yourname/yourproject.is.git"
+    "url": "git://github.com/cloyne/savecloyne.com.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourproject/yourproject.is/issues"
+    "url": "https://github.com/cloyne/savecloyne.com/issues"
   },
-  "homepage": "http://yourproject.is",
+  "homepage": "http://savecloyne.com",
   "dependencies": {
     "docpad": "~6.63.3",
     "semantic": "git+https://github.com/Semantic-Org/Semantic-UI#0.12.5",
     "font-awesome": "git+https://github.com/FortAwesome/Font-Awesome#v4.0.3",
-    "longjohn": "~0.2.2"
+    "longjohn": "~0.2.2",
+    "docpad-plugin-marked": "~2.2.0",
+    "docpad-plugin-menu": "~2.1.0"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {
     "start": "node .",
     "develop": "docpad run",
-    "deploy": "git remote add origin git@github.com:yourproject/yourproject.git; docpad deploy-ghpages --env static"
+    "deploy": "docpad deploy-ghpages --env static"
   },
   "devDependencies": {
     "docpad-plugin-eco": "~2.0.3",

@@ -1,12 +1,12 @@
 // http://docpad.org/docs/config
 
-require('longjohn');
+//require('longjohn');
 
 module.exports = {
   templateData: {
     site: {
-      title: "yourproject is",
-      description: "a really awesome idea!",
+      title: "Cloyne",
+      description: "needs your help!",
     },
   },
   detectEncoding: true,
@@ -34,6 +34,12 @@ module.exports = {
     ghpages: {
       deployRemote: 'origin',
       deployBranch: 'gh-pages',
+    },
+    menu: {
+      menuOptions: {
+        optimize: false,
+        skipFiles: /(.js|.less|.css)$/,
+      },
     },
   },
   environments: {
