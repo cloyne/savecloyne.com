@@ -10,6 +10,6 @@
   <body>
     <%- @partial("fork.html") %>
     <%- @content %>
-    <%- @getBlock("scripts").add("/scripts/bundle.js").toHTML() %>
+    <%- @getBlock("scripts").add("/scripts/index.js").toHTML() %>
   </body>
 </html>

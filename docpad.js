@@ -21,9 +21,7 @@ module.exports = {
         },
       },
     },
-    browserifybundler: {
-      inFiles: "/scripts/index.js",
-      outFile: "/scripts/bundle.js",
+    browserifydocs: {
     },
     raw: {
       'font-awesome': {
