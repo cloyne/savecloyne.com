@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title><%= @site.title %> <%= @document.title || @site.description %></title>
+    <title><%= @document.title %></title>
     <link rel="shortcut icon" href="favicon.ico" />
     <meta charset="utf-8" />
     <%- @getBlock("meta").toHTML() %>
