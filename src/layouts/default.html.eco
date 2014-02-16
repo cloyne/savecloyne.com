@@ -14,5 +14,6 @@
     </nav>
     <%- @content %>
     <%- @getBlock("scripts").add("/scripts/index.js").toHTML() %>
+    <%- @partial("footer.html.hb") %>
   </body>
 </html>
