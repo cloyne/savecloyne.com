@@ -8,8 +8,8 @@
     <%- @getBlock("styles").add(["/styles/index.css"]).toHTML() %>
     <!-- For sharing on Facebook -->
     <meta property="og:title" content="<%= @site.title %>" /> 
-    <meta property="og:url" content="http://www.savecloyne.com" /> 
-    <meta property="og:image" content="http://www.savecloyne.com/images/clologo.jpg" /> 
+    <meta property="og:url" content="http://savecloyne.com" /> 
+    <meta property="og:image" content="http://savecloyne.com/images/clologo.jpg" /> 
     <meta property="og:site_name" content="SaveCloyne.com" /> 
     <meta property="og:description" content="<%= @site.description %>" />
   </head>
