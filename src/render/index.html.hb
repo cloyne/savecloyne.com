@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Save Cloyne!"
+title: "#SaveCloyne"
 menuOrder: 0
 menuIcon: bullhorn
 menuColor: red

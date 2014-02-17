@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "How to help #savecloyne"
+title: "How to help"
 menuOrder: 3
 menuIcon: home
 menuColor: blue
