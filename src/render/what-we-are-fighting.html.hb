@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "What we are fighting"
+menuOrder: 1
 menuIcon: "thumbs down"
 menuColor: teal
 ---

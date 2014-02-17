@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Why we love Cloyne"
+menuOrder: 2
 menuIcon: heart
 menuColor: purple
 ---
