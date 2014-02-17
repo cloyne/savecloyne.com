@@ -5,6 +5,7 @@
 @import '../../../node_modules/semantic/src/elements/segment.less';
 @import '../../../node_modules/semantic/src/elements/header.less';
 @import '../../../node_modules/semantic/src/elements/image.less';
+@import '../../../node_modules/semantic/src/elements/label.less';
 @import '../../../node_modules/semantic/src/collections/grid.less';
 @import '../../../node_modules/semantic/src/collections/menu.less';
 
@@ -34,12 +35,6 @@ body > nav {
 
 body > main.page.grid {
   margin-top: 47px;
-  .social-media {
-    font-size: 20px;
-    position: absolute;
-    top: 50%;
-    left: 20%;
-  }
 }
 
 body > main.banner {
@@ -110,16 +105,19 @@ body > main.banner {
     }
   }
 
-  .down.icon {
-    line-height: normal;
-    position: absolute;
-    left: 50%;
-    right: 50%;
-    bottom: 0px;
-  }
-
   a {
     text-decoration: none;
+  }
+}
+
+body > main.how-to-help.page {
+  .column {
+    h2 {
+      font-size: 2em;
+    }
+    li {
+      font-size: 1.4em;
+    }
   }
 }
 

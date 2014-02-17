@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "How to help"
+title: "How to help #savecloyne"
 menuOrder: 3
 menuIcon: home
-menuColor: green
+menuColor: blue
 ---
 
-<main class="ui one column page grid">
+<main class="ui one column how-to-help page grid">
   <section class="column">
     {{partial "how-clones-can-help.html.md"}}
   </section>
