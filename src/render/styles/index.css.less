@@ -38,11 +38,24 @@ body > main.page.grid {
 
 body > main.banner {
   text-align: center;
-  background-image: url("../images/banner.jpg");
-  background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
   height: 100%;
+
+  @media @tiny {
+    background-size: auto;
+    background-image: url("../images/banner-xs.jpg");
+  }
+
+  @media @small, @medium {
+    background-size: cover;
+    background-image: url("../images/banner-md.jpg");
+  }
+
+  @media @large {
+    background-size: cover;
+    background-image: url("../images/banner.jpg");
+  }
 
   h1 {
     margin: 0;
