@@ -5,8 +5,8 @@
 module.exports = {
   templateData: {
     site: {
-      title: "Cloyne",
-      description: "needs your help!",
+      title: "Cloyne needs your help!",
+      description: "Recently the membership of Cloyne Court was &quot;briefed&quot; with a proposal by the Cabinet of the BSC to: 1) Make Cloyne a substance free house, 2) Make Cloyne an academic themed house and 3) Kick out all current membership and not allow them to return.",
       testimonials: require('./src/json/testimonials'),
     },
   },
