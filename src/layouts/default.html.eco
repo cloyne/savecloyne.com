@@ -1,11 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
   <head>
     <title><%= @document.title %></title>
     <link rel="shortcut icon" href="favicon.ico" />
     <meta charset="utf-8" />
     <%- @getBlock("meta").toHTML() %>
     <%- @getBlock("styles").add(["/styles/index.css"]).toHTML() %>
+	<!-- For sharing on Facebook -->
+    <meta property="og:title" content="Save Cloyne!"/> 
+    <meta property="og:url" content="http://www.savecloyne.com"/> 
+    <meta property="og:image" content="images/clologo.jpg"/> 
+    <meta property="og:site_name" content="SaveCloyne.com"/> 
+    <meta property="og:description" content="Cloyne needs your help! Recently the membership of Cloyne Court was &quot;briefed&quot; with a proposal by the Cabinet of the BSC to: 1) Make Cloyne a substance free house, 2) Make Cloyne an academic themed house and 3) Kick out all current membership and not allow them to return."/>
   </head>
   <body>
     <%- @partial("fork.html") %>
