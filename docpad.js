@@ -7,6 +7,7 @@ module.exports = {
     site: {
       title: "Cloyne",
       description: "needs your help!",
+      testimonials: require('./src/json/testimonials'),
     },
   },
   detectEncoding: true,

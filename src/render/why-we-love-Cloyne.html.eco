@@ -4,5 +4,6 @@ title: "Why we love Cloyne"
 menuIcon: heart
 menuColor: purple
 ---
-<main>
+<main class="ui one column page grid">
+  <%- @partial("testimonials.html.eco") %>
 </main>

@@ -1,0 +1,18 @@
+<section class="testimonials column">
+  <header class="ui header">
+    <h2>
+      <i class="users icon"></i>
+      Testimonials
+    </h2>
+  </header>
+  <% for t, i in @site.testimonials: %>
+  <section class="ui raised testimonial segment">
+    <img src="<%= t.img %>" class="ui <%= if i % 2 then "right" else "left" %> floated image" />
+    <h3 class="author"><%= t.author %></h3>
+    <p><%= t.text %></p>
+  </section>
+  <% end %>
+  <section class="centered">
+    if Cloyne has affected you in any way, send your testimonials to <a href="mailto:savecloyne@gmail.com">savecloyne@gmail.com</a>!
+  </section>
+</section>
