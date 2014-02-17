@@ -3,7 +3,7 @@ layout: default
 title: "How to help"
 menuOrder: 3
 menuIcon: home
-menuColor: blue
+menuColor: green
 ---
 
 <main class="ui one column page grid">
