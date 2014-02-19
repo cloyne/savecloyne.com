@@ -1,3 +1,7 @@
+---
+isPaged: true
+pagedCollection: 'testimonials'
+---
 <section class="testimonials column">
   <header class="ui header">
     <h2>
@@ -5,7 +9,7 @@
       Testimonials
     </h2>
   </header>
-  <% for t, i in @site.testimonials: %>
+  <% for t, i in @getPageCollection('testimonials').toJSON(): %>
   <section class="ui raised testimonial <%= if i % 2 then "right-align" else "left-align" %> segment">
     <% if t.img: %>
     <img src="<%= t.img %>" class="ui <%= if i % 2 then "right" else "left" %> floated image" />
@@ -14,7 +18,7 @@
       <a class="anchor" id="<%= t.author.split(' ').join('-') %>"></a>
       <%= t.author %>
     </h3>
-    <p><%- t.text.split('\n').join('</p><p>') %></p>
+    <%- t.contentRendered %>
   </section>
   <% end %>
   <section class="center-align">

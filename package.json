@@ -18,7 +18,8 @@
     "font-awesome": "git+https://github.com/FortAwesome/Font-Awesome#v4.0.3",
     "longjohn": "~0.2.2",
     "docpad-plugin-marked": "~2.2.0",
-    "docpad-plugin-menu": "~2.1.0"
+    "docpad-plugin-menu": "~2.1.0",
+    "docpad-plugin-paged": "~2.2.4"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {

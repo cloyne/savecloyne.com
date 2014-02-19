@@ -43,6 +43,14 @@ module.exports = {
       },
     },
   },
+  collections: {
+    testimonials: function () {
+      return this.getCollection('documents').findAllLive({
+        relativeOutDirPath: 'testimonials',
+        isPagedAuto: { $ne: true },
+      }).sortCollection(function (model) { return model.get('order'); });
+    },
+  },
   environments: {
     development: {
       port: 5000,
