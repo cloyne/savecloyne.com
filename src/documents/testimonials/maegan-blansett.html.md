@@ -1,6 +1,6 @@
 ---
-img: "/images/clologo.jpg"
-author: "Clone"
+img: "/images/maegan-blansett.jpg"
+author: "Maegan Blansett"
 order: 500
 ---
 As a slightly unconventional, 5th year transfer student, I have lived a lot of places in college, but none of them have come close to my experience at Cloyne.
