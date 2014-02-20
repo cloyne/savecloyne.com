@@ -1,0 +1,13 @@
+---
+author: "Leah Cardoz"
+order: 860
+---
+I was ecstatic when I found out that I had gotten into UC Berkeley, but California was a long way off from my home in New York. I knew that if I decided to go here, I had to be 100% sure.
+
+I visited on Cal Day weekend and had the one kid who was from my high school show me around. Being a social person, naturally, I wanted to check out the social scene. I was first taken to a frat party on Southside, and I think I stayed there for a total of 30 seconds. I was not a fan of the thick, hot air, the smell of stale beer, and the sight of sketchy guys grinding with girls to terrible rap songs. My friend had remembered that this co-op, Cloyne, was having its bi-annual “pirate party”. I didn’t even know what a co-op was but I was down to go. I was shocked at what I saw. Being a huge music lover, I was so surprised to see a real band playing in one room and a DJ spinning in another. I was fascinated with the idea of Cloyne as an art space and spent a great deal of the party just looking at the beautiful murals that graced the walls. I saw a family of what I now know to be “clones” actually socializing, dancing, and having fun. I didn’t know parties like this existed anymore. If I hadn’t been brought to Cloyne that night, I honestly don’t think I would’ve decided to attend UC Berkeley.
+
+Although I only moved into Cloyne last summer as an incoming junior, I was immediately reunited with that feeling I felt at pirate party years ago and since then, that feeling has only become more intense. I was so warmed by the friendliness of the members and the energy of the house. When we are hit with bad news, I feel so grateful to be surrounded by a group that can rally together and pick each other up. 
+
+I used to live in a sorority and I always felt like I had to hold myself back a little, whether it was through the way I dressed, the words that came out of my mouth, or even my opinions and beliefs. In the community that is Cloyne, my weirdness is fully embraced, and I always feel encouraged to share and voice my thoughts and opinions. I’ve realized that Cloyne is the one place that I can truly be myself. When I was home in New York for winter break, all I could think about was being back at Cloyne again. It was so weird – feeling uncomfortable in the house I’ve lived in for 20 years, the house I grew up in, and instead feeling at peace in the co-op I’ve only lived in for 6 months. The bottom line is that CLOYNE is my home, and the thought of silencing its history and all of our collective experiences there kills me. 
+
+~Never alone and forever a clone~
