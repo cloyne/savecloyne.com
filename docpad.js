@@ -47,7 +47,7 @@ module.exports = {
       return this.getCollection('documents').findAllLive({
         relativeOutDirPath: 'testimonials',
         isPagedAuto: { $ne: true },
-      });
+      }).setComparator({ order: 1 });
     },
   },
   environments: {

@@ -1,6 +1,7 @@
 ---
 img: "/images/kate-boden.jpg"
 author: "Kate Boden"
+order: 200
 ---
 Cloyne is walking into the kitchen at four am and watching an eccentric male cook pasta primavera with perfectly sautéed mushrooms. Cloyne is listening to impromptu kitchen raps full of flavor and rhyme, free expression of self along side the smell of chopped garlic and fried onions. Cloyne is waking up with the blooming Wisteria in the sun soaked courtyard and the sound of power tools belonging to dedicated deck builders who are either starting their day or finishing their evening. Cloyne is the collection of rhythmic collisions between plate and fork before dinner, the synchronized calling for food. Cloyne is using spoons to hit plastic lids who will be substitutes for plates and a spatula to fork lentils on top of baked squash, kale chips, and salad. Cloyne is staying at the dinner table until the entire kitchen has been cleaned because a discussion of fundamental forces kept you from moving. Cloyne is the discussion of matter, meaning, neurons, Newsweek, New York Times, Wall Street Journal, Wallace, Whitman, Woodrow, gender, genetics, gentrification, litigation, population, prison, pressure, Poynting vector, energy, entropy, elegy, carbon, culture, crossword, Crossroads, creation, indoctrination, Dali, Dante, diaspora, diversity.
 

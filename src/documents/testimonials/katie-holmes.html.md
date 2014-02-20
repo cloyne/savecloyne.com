@@ -1,6 +1,7 @@
 ---
 img: "/images/katie-holmes.jpg"
 author: "Katie Holmes"
+order: 100
 ---
 I have painted seven murals in this house since moving in a year and a half ago. Yesterday I planted ferns and daffodils in the front yard, and today I decorated furniture while listening to a group of boys work on a beautiful new deck. I’ve also done the not-so-nice things for this house – I’ve washed pots for three hours straight and cleaned walls with buckets of bleach. In everything I’ve done, though, I have done it with the knowledge that I will not be here forever – these are not improvements for my personal living space, but literally for this house.
 

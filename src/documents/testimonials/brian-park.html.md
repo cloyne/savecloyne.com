@@ -1,6 +1,7 @@
 ---
 img: "/images/brian-park.jpg"
 author: "Brian Park"
+order: 1000
 ---
 During my senior year at Cal, I was fortunate enough to find myself among clones and even had the honor of serving as a house manager. And I can say with the utmost sincerity that my short time at Cloyne has fostered more personal growth than all my earlier years at Cal combined. Cloyne is an anomaly in a college community in that students from different backgrounds and with various academic and personal interests come together to live as a family. It is a safe haven for the quirky to freely express themselves and for the more serious (like myself) to rediscover what they know about human interaction.
 

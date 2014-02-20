@@ -1,6 +1,7 @@
 ---
 img: "/images/garth-fisher.jpg"
 author: "Garth Fisher"
+order: 300
 ---
 I moved into Cloyne as a transfer student last semester looking for affordable housing and nothing else, and instantly fell in love with the murals on the walls. You know you are in a very special place if a bunch of rhetoric, engineering, english, computer science, anthropology, political science, biology, and mathematics majors all feel moved to paint artwork on their walls. This art which won’t, if the BSC continues with its plan to waste money and enact unsustainable, drastic and damaging changes, be there for long.
 

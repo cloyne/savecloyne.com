@@ -1,6 +1,7 @@
 ---
 img: "/images/clologo.jpg"
 author: "Charlotte Bertrandy"
+order: 800
 ---
 I lived in Cloyne in 2011-2012, during the year I spent at Cal as an exchange student. It has been several years I left California, but no matter how far away I am now, I will always remember this very special place at 2600, Ridge road.
 

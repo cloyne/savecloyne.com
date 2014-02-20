@@ -1,6 +1,7 @@
 ---
 img: "/images/chelsea-sarg.jpg"
 author: "Chelsea Sarg"
+order: 400
 ---
 Every day when I come back from class or work I walk through the sunlit courtyard and pass friends playing basketball, or reading, playing cards, doing construction, working in the garden. I always find my way to the kitchen and find friends cooking, people studying in the dining room. I walk down the main hall and pass the signup sheets for IM sports, for community service, for adventure club; I pass the beautiful murals lining the walls, photos of house members dressed to the tee for wine and cheese, photos of me dancing without shame the weekend before. In my room the sun shines upon the painting of a sunrise in Thailand that an old Clone did after returning from abroad.
 

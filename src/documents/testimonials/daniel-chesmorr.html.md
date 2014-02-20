@@ -1,6 +1,7 @@
 ---
 img: "/images/daniel-chesmorr.jpg"
 author: "Daniel Chesmorr"
+order: 600
 ---
 I lived in Cloyne for the entirety of my tenure at UC Berkeley. I graduated in the Fall of 2013 Magna Cum Laude, and I was the Student Speaker at my commencement ceremony. I founded several student organizations, and I was an outspoken advocate for LGBT rights throughout campus. Cloyne allowed me to even throw an LGBT event for my student organization as shown in the picture attached. I have never used any substance that could kill me. I never encouraged any of my peers to engage in dangerous activity. I am an LGBT person of color who now works as a Financial Analyst at a prestigious public company, reporting directly to the CFO.
 
