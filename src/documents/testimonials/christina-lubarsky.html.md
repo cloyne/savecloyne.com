@@ -1,4 +1,5 @@
 ---
+img: "/images/christina-lubarsky.jpg"
 author: "Christina Lubarsky"
 order: 840
 ---
