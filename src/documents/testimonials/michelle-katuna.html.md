@@ -1,7 +1,6 @@
 ---
 img: "/images/michelle-katuna.jpg"
 author: "Michelle Katuna"
-order: 0
 ---
 I moved into Cloyne because of the corrugated-plastic, Clone-built greenhouse—old Clones remember the garden manager that installed it—that stands in the courtyard between our lawn and the now-harvestable chard and arugula patch. When I was taking my first tour of the house, I had just finished working at a farm where I had learned about organic vegetable production. I was in the midst of changing my major to Conservation and Resource Studies with a focus in Sustainable Agriculture. I work at Igancio Chapela’s microbiology lab on the UC Berkeley campus doing research on GMOs. I have volunteered at numerous community gardens. I am an aspiring farmer. I was titillated by the resources and access to land that Cloyne would afford me to actuate my studies and passions at my home.
 
