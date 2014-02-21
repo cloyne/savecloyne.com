@@ -1,4 +1,5 @@
 ---
+img: "/images/thea-brown.jpg"
 author: "Thea Brown"
 order: 50
 ---
