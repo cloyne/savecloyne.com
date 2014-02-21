@@ -1,5 +1,6 @@
 ---
 img: "/images/hannah-miller.jpg"
+imgWidth: "192px"
 author: "Hannah Miller"
 order: 710
 ---
