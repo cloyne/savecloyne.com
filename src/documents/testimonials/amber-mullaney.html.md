@@ -1,4 +1,5 @@
 ---
+img: "/images/amber-mullaney.jpg"
 author: "Amber Mullaney"
 order: 730
 ---
