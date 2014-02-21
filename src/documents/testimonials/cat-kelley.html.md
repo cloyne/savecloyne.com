@@ -1,6 +1,7 @@
 ---
 img: "/images/cat-kelly.jpg"
 author: "Cat Kelly"
+order: 1020
 ---
 I heard about Cloyne from a friend who said that the band Pangea played there. As someone who searches concert line-ups on a daily basis, I immediately researched this mysterious venue in my proximity. I was shocked to find that people lived there. 150 people. In a place with a musical legacy that stretches back to Elliot Smith, No Doubt, Green Day, and countless other bands. I knew I had to live there. 
 

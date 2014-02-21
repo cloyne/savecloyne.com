@@ -1,6 +1,7 @@
 ---
 img: "/images/chris-feng.jpg"
 author: "Chris Feng"
+order: 1030
 ---
 I was in Cloyne for two years and living there fundamentally changed my perspective of… pretty much everything. It’s no exaggeration to say that there is nowhere else in the world quite like it. I had the pleasure of being a part of the most radically diverse community that I have yet seen, and it troubles me to imagine a future without this dense haven of compassion, love, acceptance, and expression.
  
