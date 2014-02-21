@@ -48,7 +48,7 @@
     <%- @partial("menu.html.eco", { menuItems: @generateMenu(@document.url) }) %>
     </nav>
     <%- @content %>
-    <%- @getBlock("scripts").add("/scripts/index.js").toHTML() %>
+    <%- @getBlock("scripts").add("/scripts/bundle.js").toHTML() %>
     <%- @partial("footer.html.hb") %>
   </body>
 </html>
