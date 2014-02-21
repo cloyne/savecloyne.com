@@ -13,14 +13,14 @@
   },
   "homepage": "http://savecloyne.com",
   "dependencies": {
-    "docpad": "~6.63.3",
+    "docpad": "~6.63.7",
     "semantic": "git+https://github.com/Semantic-Org/Semantic-UI#0.12.5",
     "font-awesome": "git+https://github.com/FortAwesome/Font-Awesome#v4.0.3",
     "longjohn": "~0.2.2",
     "docpad-plugin-marked": "~2.2.0",
     "docpad-plugin-menu": "~2.1.0",
     "docpad-plugin-paged": "~2.2.4",
-    "uglifyify": "~1.2.2",
+    "uglifyify": "~1.2.3",
     "docpad-plugin-browserifybundles": "~2.0.0",
     "docpad-plugin-livereload": "~2.6.0"
   },
