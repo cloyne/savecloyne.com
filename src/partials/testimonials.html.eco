@@ -12,7 +12,7 @@ pagedCollection: 'testimonials'
   <% for t, i in @getPageCollection('testimonials').toJSON(): %>
   <section class="ui raised testimonial <%= if i % 2 then "right-align" else "left-align" %> segment">
     <% if t.img: %>
-    <img src="<%= t.img %>" class="ui <%= if i % 2 then "right" else "left" %> floated image" />
+    <img src="<%= t.img %>" class="ui <%= if i % 2 then "right" else "left" %> floated image" width=<%= if t.imgWidth then t.imgWidth else "128px" %> />
     <% end %>
     <h3 class="author">
       <a class="anchor" id="<%= t.author.split(' ').join('-') %>"></a>

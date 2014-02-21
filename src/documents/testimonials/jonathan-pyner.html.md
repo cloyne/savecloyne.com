@@ -1,4 +1,6 @@
 ---
+img: "/images/jonathan-pyner.jpg"
+imgWidth: "256px"
 author: "Jonathan Pyner"
 order: 850
 ---
