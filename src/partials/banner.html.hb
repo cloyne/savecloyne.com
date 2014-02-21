@@ -8,7 +8,7 @@
     <i class="edit sign icon"></i>
     <div class="content">
       <h2 class="header">Sign our 
-        <a href="#">Referendum</a>
+        <a href="http://www.ipetitions.com/petition/petition-for-referendum-on-the-cloyne-court">Referendum</a>
         !
       </h2>
     </div>
