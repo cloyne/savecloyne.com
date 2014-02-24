@@ -5,6 +5,8 @@
 module.exports = {
   templateData: {
     site: {
+      styles: ["/styles/index.css"],
+      scripts: [],
       title: "Cloyne needs your help!",
       description: "Recently the membership of Cloyne Court was &quot;briefed&quot; with a proposal by the Cabinet of the BSC to: 1) Make Cloyne a substance free house, 2) Make Cloyne an academic themed house and 3) Kick out all current membership and not allow them to return.",
     },
@@ -24,15 +26,15 @@ module.exports = {
     browserifybundles: {
       bundles: [{
         arguments: ['-t', 'uglifyify'],
-        entry: 'scripts/index.js',
-        out: 'scripts/bundle.js',
+        entry: 'scripts/gallery.js',
+        out: 'scripts/gallerybundle.js',
       }],
       environments: {
         development: {
           bundles: [{
             arguments: ['-d'],
-            entry: 'scripts/index.js',
-            out: 'scripts/bundle.js',
+            entry: 'scripts/gallery.js',
+            out: 'scripts/gallerybundle.js',
           }],
         },
       },
@@ -44,6 +46,9 @@ module.exports = {
       semantic: {
         command: ['rsync', '-r', 'node_modules/semantic/src/fonts/', 'out/fonts'],
       },
+      'blueimp-gallery-img': {
+        command: ['rsync', '-r', 'node_modules/blueimp-gallery/img/', 'out/img'],
+      },
     },
     ghpages: {
       deployRemote: 'origin',
@@ -53,6 +58,18 @@ module.exports = {
       menuOptions: {
         optimize: false,
         skipFiles: /^(scripts|styles|testimonials)/,
+      },
+    },
+    feedr: {
+      feeds: {
+        imgur: {
+          url: "https://api.imgur.com/3/album/mmLJg.json",
+          requestOptions: {
+            headers: {
+              'Authorization': "Client-ID 99694b515475fd1",
+            },
+          },
+        },
       },
     },
   },

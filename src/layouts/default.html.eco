@@ -4,7 +4,7 @@
     <title><%= @document.title %></title>
     <meta charset="utf-8" />
     <%- @getBlock("meta").toHTML() %>
-    <%- @getBlock("styles").add(["/styles/index.css"]).toHTML() %>
+    <%- @getBlock("styles").add(@site.styles or []).add(@document.styles or []).toHTML() %>
     <!-- ****** faviconit.com favicons ****** -->
     <!-- Basic favicons -->
     <link rel="shortcut icon" sizes="16x16 32x32 48x48 64x64" href="/favicon.ico">
@@ -48,7 +48,7 @@
     <%- @partial("menu.html.eco", { menuItems: @generateMenu(@document.url) }) %>
     </nav>
     <%- @content %>
-    <%- @getBlock("scripts").add("/scripts/bundle.js").toHTML() %>
+    <%- @getBlock("scripts").add(@site.scripts or []).add(@document.scripts or []).toHTML() %>
     <%- @partial("footer.html.hb") %>
   </body>
 </html>

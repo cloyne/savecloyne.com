@@ -22,7 +22,9 @@
     "docpad-plugin-paged": "~2.2.4",
     "uglifyify": "~1.2.3",
     "docpad-plugin-browserifybundles": "~2.0.0",
-    "docpad-plugin-livereload": "~2.6.0"
+    "docpad-plugin-livereload": "~2.6.0",
+    "blueimp-gallery": "~2.13.2",
+    "docpad-plugin-feedr": "~2.7.0"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {
