@@ -4,6 +4,7 @@ title: "How to help"
 menuOrder: 3
 menuIcon: home
 menuColor: blue
+menuHidden: true
 ---
 
 <main class="ui one column how-to-help page grid">
