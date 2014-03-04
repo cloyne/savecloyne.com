@@ -8,7 +8,8 @@ menuColor: "green"
 menuOrder: 4
 ---
 {{partial "gallery-controls.html"}}
-<main class="page">
+<main class="multimedia page">
+  {{partial "videos.html"}}
   {{partial "images.html.eco"}}
 </main>
 {{partial "gallery-script.html"}}
