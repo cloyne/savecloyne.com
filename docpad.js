@@ -63,10 +63,10 @@ module.exports = {
     feedr: {
       feeds: {
         imgur: {
-          url: "https://api.imgur.com/3/album/mmLJg.json",
+          url: "https://api.imgur.com/3/album/oud1k.json",
           requestOptions: {
             headers: {
-              'Authorization': "Client-ID 99694b515475fd1",
+              'Authorization': "Client-ID a6253679fd7fa71",
             },
           },
         },
