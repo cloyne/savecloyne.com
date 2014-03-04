@@ -9,11 +9,14 @@ menuColor: teal
   <section class="column">
     TODO: this description is somewhat outdated and should be updated.
   </section>
+
+  <hr class="ui divider" />
+
   <section class="column">
     {{partial "position.html.md"}}
   </section>
 
-  <hr />
+  <hr class="ui divider" />
 
   <section class="column">
     The BSC Cabinet proposal is as follows:
