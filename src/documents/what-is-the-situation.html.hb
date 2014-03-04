@@ -7,6 +7,9 @@ menuColor: teal
 ---
 <main class="ui one column page grid">
   <section class="column">
+    TODO: this description is somewhat outdated and should be updated.
+  </section>
+  <section class="column">
     {{partial "position.html.md"}}
   </section>
 
