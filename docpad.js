@@ -25,11 +25,11 @@ module.exports = {
     },
     browserifybundles: {
       bundles: [{
-        arguments: ['-t', 'uglifyify'],
+        arguments: ['-g', 'uglifyify'],
         entry: 'scripts/gallery.js',
         out: 'scripts/gallerybundle.js',
       }, {
-        arguments: ['-t', 'uglifyify'],
+        arguments: ['-g', 'uglifyify'],
         entry: 'scripts/index.js',
         out: 'scripts/bundle.js',
       }],

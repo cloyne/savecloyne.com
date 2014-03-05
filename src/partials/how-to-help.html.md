@@ -1,0 +1,39 @@
+## how we all can help
+
+- start a <span class="ui label">#savecloyne</span> conversation throughout the community: on [<i class="fa fa-twitter"></i>Twitter](https://twitter.com/search?q=%23savecloyne&src=typd), on [<i class="fa fa-facebook"></i>Facebook](https://www.facebook.com/hashtag/savecloyne?source=feed_text), on another electronic medium, or better yet in person
+- draft alternative proposal ideas
+  - how to ensure a healthy BSC for another 80 years
+  - how to promote wellness and harm reduction
+  - how to provide support for issues arising from substance abuse and mental illness
+- ask for outside help
+  - contact other cooperatives
+  - contact lawyers
+  - contact insurance brokers
+- work together with our community
+  - come to dinner at Cloyne any night
+  - go to Board March 13th, 7pm at Rochdale to vote on the proposal
+  - respectively and productively email our BSC representatives and executives (these are beautiful people too, please don't be hate'n)
+    - [board](mailto:board@bsc.coop)
+    - [cabinet](mailto:cabinet@bsc.coop)
+    - [Jim Gray, executive director](jgray@bsc.coop)
+    - [Kim Benson, operations manager](kbenson@bsc.coop)
+    - [Afro board rep](athbr@bsc.coop)
+    - [Castro board rep](acabr@bsc.coop)
+    - [Casa Zimbabwe board rep](cazbr@bsc.coop)
+    - [Cloyne board rep](clobr@bsc.coop)
+    - [Convent board rep](conbr@bsc.coop)
+    - [Davis board rep](davbr@bsc.coop)
+    - [Euclid board rep](eucbr@bsc.coop)
+    - [Fenwick board rep](fenbr@bsc.coop)
+    - [HiP board rep](hipbr@bsc.coop)
+    - [Hoyt board rep](hoybr@bsc.coop)
+    - [Kidd board rep](kidbr@bsc.coop)
+    - [Kingman board rep](kngbr@bsc.coop)
+    - [Lothlorien board rep](lotbr@bsc.coop)
+    - [Northside board rep](nscbr@bsc.coop)
+    - [Ridge board rep](ridbr@bsc.coop)
+    - [Rochdale board rep](rocbr@bsc.coop)
+    - [Sherman board rep](shebr@bsc.coop)
+    - [Stebbins board rep](stbbr@bsc.coop)
+    - [Wilde board rep](wilbr@bsc.coop)
+    - [Wolf board rep](wolbr@bsc.coop)
