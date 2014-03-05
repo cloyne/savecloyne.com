@@ -45,17 +45,20 @@ body > main.multimedia.page {
 
 body > main.banner.page {
   text-align: center;
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
   width: 100%;
+  min-height: 100%;
+  height: auto;
+  background: no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
   @media @tiny, @small, @medium {
-    background-size: cover;
     background-image: url("../images/banner-md.jpg");
   }
 
   @media @large {
-    background-size: cover;
     background-image: url("../images/banner.jpg");
   }
 
