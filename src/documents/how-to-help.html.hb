@@ -8,6 +8,6 @@ menuColor: blue
 
 <main class="ui one column how-to-help page grid">
   <section class="column">
-    {{partial "how-to-help.html.md"}}
+    {{partial "how-we-all-can-help.html.md"}}
   </section>
 </main>
