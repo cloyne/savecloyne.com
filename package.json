@@ -24,7 +24,8 @@
     "docpad-plugin-browserifybundles": "~2.0.0",
     "docpad-plugin-livereload": "~2.6.0",
     "blueimp-gallery": "~2.13.2",
-    "docpad-plugin-feedr": "~2.7.0"
+    "docpad-plugin-feedr": "~2.7.0",
+    "domready": "~1.0.4"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {

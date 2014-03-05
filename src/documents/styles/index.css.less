@@ -43,20 +43,13 @@ body > main.multimedia.page {
   margin-top: 52px;
 }
 
-body > main.banner {
+body > main.banner.page {
   text-align: center;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  height: 100%;
   width: 100%;
-  position: absolute;
 
-  @media @tiny {
-    background-size: auto;
-    background-image: url("../images/banner-xs.jpg");
-  }
-
-  @media @small, @medium {
+  @media @tiny, @small, @medium {
     background-size: cover;
     background-image: url("../images/banner-md.jpg");
   }
@@ -75,21 +68,33 @@ body > main.banner {
     padding: 0.1em 0.2em;
 
     @media @tiny {
-      margin-top: 200px;
       font-size: 4.6rem;
     }
     @media @small {
-      margin-top: 120px;
       font-size: 5.1rem;
     }
     @media @medium {
-      margin-top: 80px;
       font-size: 6.1rem;
     }
     @media @large {
-      margin-top: 100px;
       font-size: 8.1rem;
     }
+    @media (max-height: 400px) {
+      margin-top: 3px;
+    }
+    @media (max-height: 520px) {
+      margin-top: 6px;
+    }
+    @media (max-height: 640px) {
+      margin-top: 12px;
+    }
+    @media (max-height: 760px) {
+      margin-top: 25px;
+    }
+    @media (max-height: 880px) {
+      margin-top: 60px;
+    }
+    margin-top: 120px;
   }
 
   p {
@@ -124,7 +129,7 @@ body > main.banner {
     text-align: center;
 
     @media (max-height: 400px) {
-      margin-top: 0px;
+      margin-top: 3px;
     }
     @media (max-height: 520px) {
       margin-top: 6px;

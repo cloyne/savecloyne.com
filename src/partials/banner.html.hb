@@ -1,6 +1,6 @@
 ---
 ---
-<main class="banner">
+<main class="banner page">
   <h1>Cloyne</h1>
   <p>needs your help!</p>
 
