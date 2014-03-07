@@ -39,4 +39,4 @@ Cabinet - the executive committee of the Board comprised of the President, 6 VPs
 
 Board will discuss this proposal Thursday Feb. 27, 7pm at Rochdale.
 
-Board will **vote** March 6th, 7pm at Rochdale.
+Board will **vote** March 13th, 7pm at Rochdale.
