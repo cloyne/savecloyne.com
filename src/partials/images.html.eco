@@ -1,12 +1,15 @@
-<section class="images center-align" id="links">
-<% for image in @feedr.feeds.imgur.data.images: %>
-  <a href="<%= image.link %>"
-    <%= if image.title then ' title="'+image.title+'"' else '' %>
-    <%= if image.description then ' description="'+image.description+'"' else '' %>
-  >
-    <img src="<%= image.link.replace(image.id, image.id + "b") %>"
-      <%= if image.title then ' alt="'+image.title+'"' else '' %>
-    />
-  </a>
-<% end %>
+<section class="images">
+  <h2 class="ui header">Images</h2>
+  <section id="links">
+  <% for image in @feedr.feeds.imgur.data.images: %>
+    <a href="<%= image.link %>"
+      <%= if image.title then ' title="'+image.title+'"' else '' %>
+      <%= if image.description then ' description="'+image.description+'"' else '' %>
+    >
+      <img src="<%= image.link.replace(image.id, image.id + "b") %>"
+        <%= if image.title then ' alt="'+image.title+'"' else '' %>
+      />
+    </a>
+  <% end %>
+  </section>
 </section>
