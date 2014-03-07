@@ -47,7 +47,9 @@
     <nav role="navigation">
     <%- @partial("menu.html.eco", { menuItems: @generateMenu(@document.url) }) %>
     </nav>
+    <%- if @document.pageLayout then '<main class="ui one column page grid"><section class="column">' %>
     <%- @content %>
+    <%- if @document.pageLayout then '</section></main>' %>
     <%- @getBlock("scripts").add(@site.scripts or []).add(@document.scripts or []).toHTML() %>
     <%- @partial("footer.html.hb") %>
   </body>

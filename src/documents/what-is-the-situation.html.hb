@@ -7,7 +7,13 @@ menuColor: teal
 ---
 <main class="ui one column page grid">
   <section class="column">
-    TODO: this description is somewhat outdated and should be updated.
+    {{partial "press.html.md"}}
+  </section>
+
+  <hr class="ui divider" />
+
+  <section class="column">
+    {{partial "referendum.html.md"}}
   </section>
 
   <hr class="ui divider" />
