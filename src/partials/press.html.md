@@ -1,5 +1,6 @@
 ## Recent publications about the situation at Cloyne
 
+- <a href="http://www.dailycal.org/2014/03/13/cloyne-can-craft-self-fulfilling-prophecy/">3/13/14 "Cloyne can craft its own self-fulfilling prophecy"</a>
 - <a href="http://www.kpfa.org/archive/id/100888" target="_blank">3/12/14 KPFA 94.1 FM Berkeley Evening News - Cloyne story starts around 45 minute mark</a>
 - <a href="http://www.dailycal.org/2014/03/11/future-cloyne-court-hinges-vote-thursday-night/" target="_blank">3/11/14 "Future of Cloyne Court hinges on vote Thursday night"</a>
 - <a href="http://www.huffingtonpost.com/2014/03/06/uc-berkeley-co-op_n_4892793.html" target="_blank">3/6/14 "Nation's Largest Student Co-Op At UC Berkeley May Completely Change After Drug Overdose Lawsuit" by Sarah Barness at Huffington Post</a>
